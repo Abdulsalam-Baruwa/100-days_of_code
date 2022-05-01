@@ -23,3 +23,5 @@
 #reduce 'lives' by 1.
 #If lives goes down to 0, then the game should stop and it should print 'you lose'.
 # Join all the elements in the list and turn it into a string.
+
+
